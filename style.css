@@ -15,3 +15,13 @@ a.url:hover,
 a.zoom:hover {
     color: #777 !important;
 }
+
+.legend {
+    padding: 6px;
+    max-height: 600px;
+    overflow-y: auto;
+ }
+
+.legend img {
+    max-width: 300px;
+}
