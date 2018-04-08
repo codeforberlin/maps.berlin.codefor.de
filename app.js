@@ -1,67 +1,82 @@
-var _map;
-var _config;
-var _legend;
+var _map,
+    _legend_control,
+    _legend = {},
+    _layers = {};
 
-function load_legend(layer_name) {
-    _legend.remove();
+function ready(fn) {
+  if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
+    fn();
+  } else {
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+}
 
-    var layer_config = $.grep(_config.base, function(e){return e.name == layer_name; })[0];
-    if (typeof layer_config.legend != 'undefined') {
-        _legend.onAdd = function (map) {
+function get_json(url, callback) {
+    var request = new XMLHttpRequest();
+    request.open('GET', url, true);
+
+    request.onload = function() {
+      if (request.status >= 200 && request.status < 400) {
+        // Success!
+        var json = JSON.parse(request.responseText);
+        callback(json);
+      } else {
+        // We reached our target server, but it returned an error
+      }
+    };
+
+    request.onerror = function() {
+      // There was a connection error of some sort
+    };
+
+    request.send();
+}
+
+function init_map(config) {
+    _map = L.map('map');
+
+    config.base.forEach(function(layer) {
+        _layers[layer.name] = L.tileLayer(layer.url, layer.options);
+        _legend[layer.name] = layer.legend;
+    });
+
+    _layers[config.base[0].name].addTo(_map);
+
+    _map.setView(config.view.center, config.view.zoom);
+
+    _legend_control = L.control({position: 'bottomleft'});
+
+    L.control.layers(_layers, {}, {
+        collapsed: false
+    }).addTo(_map);
+
+    _map.on('baselayerchange', function(layer) {
+        init_legend(layer.name);
+    })
+}
+
+function init_legend(layer_name) {
+
+    _legend_control.remove();
+
+    if (typeof(_legend[layer_name]) !== 'undefined') {
+        _legend_control.onAdd = function (map) {
             var div = L.DomUtil.create('div', 'legend leaflet-control-layers leaflet-control-layers-expanded leaflet-control');
-            div.innerHTML += '<img src="' + layer_config.legend +  '">';
+            div.innerHTML += '<img src="' + _legend[layer_name] +  '">';
             return div;
         };
 
-        _legend.addTo(_map);
+        _legend_control.addTo(_map);
 
-        $('.legend').on('mousewheel', function(event) {
+        var legend = document.getElementsByClassName('legend')[0];
+        legend.addEventListener('mousewheel', function() {
             event.stopPropagation();
         });
     }
 }
 
-function init() {
-    $.ajax({
-        url: 'config.json',
-        dataType: 'json',
-        success: function (config) {
-            _map = L.map('map');
-            _config = config;
-            _legend = L.control({position: 'bottomleft'});
-
-            var base = {};
-            $.each(config.base, function(key, layer) {
-                base[layer.name] = L.tileLayer(layer.url, layer.options);
-            });
-
-            var overlay = {};
-            $.each(config.overlay, function(key,layer) {
-                overlay[layer.name] = L.tileLayer(layer.url, layer.options);
-            });
-
-            var layer_name = config.base[0].name;
-
-            base[layer_name].addTo(_map);
-
-            load_legend(layer_name);
-
-            L.control.layers(base, overlay, {
-                collapsed: false
-            }).addTo(_map);
-
-            _map.setView(config.location.center, config.location.zoom);
-
-            _map.on('baselayerchange', function(layer) {
-                load_legend(layer.name);
-            })
-        },
-        error: function () {
-            console.log('Error with json!');
-        }
+ready(function() {
+    get_json('config.json', function(result) {
+        init_map(result);
     });
-}
-
-$(document).ready(function() {
-    setTimeout('init()', 100);
 });

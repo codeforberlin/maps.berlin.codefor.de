@@ -4,16 +4,13 @@ html, body, {
     padding: 0;
     margin: 0;
 }
+
 #map {
     position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-}
-a.url:hover,
-a.zoom:hover {
-    color: #777 !important;
 }
 
 .leaflet-container {
@@ -24,8 +21,7 @@ a.zoom:hover {
     padding: 6px;
     max-height: 600px;
     overflow-y: auto;
- }
-
+}
 .legend img {
     max-width: 300px;
 }
