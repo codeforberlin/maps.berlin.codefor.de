@@ -55,6 +55,8 @@ function init_map(config) {
     })
 }
 
+// Shows a legend (image file) on the bottom left of the map
+// for the non-areal image layers.
 function init_legend(layer_name) {
 
     _legend_control.remove();

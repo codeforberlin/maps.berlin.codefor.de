@@ -25,3 +25,19 @@ html, body, {
 .legend img {
     max-width: 300px;
 }
+
+#github {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 11px;
+  z-index: 800;
+  font-family: sans-serif;
+  padding: 4px 4px 0 4px;
+}
+#github a {
+  text-decoration: none;
+  color: #0078A8;
+}
