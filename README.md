@@ -5,7 +5,7 @@ An overview of the map data avaliable on the server.
 ## Other projects
 
 * https://berlin.codefor.de/luftbilder/ is focussed on areal images from differnt years [Github](https://github.com/jochenklar/berlin-aerial) 
-* https://tiles.codefor.de/ shows the same data as this site [Github](https://github.com/jochenklar/tiles)
+* ~~https://tiles.codefor.de/ shows the same data as this site [Github](https://github.com/jochenklar/tiles)~~ (Archived)
 
 
 ## Data source
