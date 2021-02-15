@@ -8,6 +8,15 @@
     },
     "base": [
         {
+            "name": "Luftbilder 2020 TrueDOP",
+            "url": "https://tiles.codefor.de/berlin-2020-truedop/{z}/{x}/{y}.png",
+            "options": {
+                "attribution": "<a target=\"blank\" href=\"https://fbinter.stadt-berlin.de/fb/index.jsp#todo_once_done\">Digitale farbige Trueorthophotos 2020</a>",
+                "minZoom": 10,
+                "maxZoom": 20
+            }
+        },
+        {
             "name": "Luftbilder 2019",
             "url": "https://tiles.codefor.de/berlin-2019/{z}/{x}/{y}.png",
             "options": {
