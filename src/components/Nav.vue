@@ -2,7 +2,7 @@
   <nav>
     <div class="nav-left">
       <h1>
-        <a href="{{ brand.href }}">{{ brand.text }}</a>
+        <a v-bind:href="brand.href">{{ brand.text }}</a>
       </h1>
 
       <div class="info">
