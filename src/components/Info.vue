@@ -5,7 +5,7 @@
       maps.codefor.berlin ist ein Projekt des <a href="https://codefor.de/berlin">OK Lab Berlins</a>.
     </p>
     <p>
-      Den Source-Code gibt es auf <a href="https://github.com/codeforberlin/maps.codefor.berlin">GitHub</a>.
+      Den Source-Code gibt es auf <a href="https://github.com/codeforberlin/maps.berlin.codefor.de">GitHub</a>.
     </p>
     <p>
       Die aktuelle Karte zeigt <span v-html="map.options.attribution"></span>. Hinter dem Link gibt es mehr Informationen.
