@@ -166,6 +166,15 @@
             }
         },
         {
+            "name": "Luftbilder 1953",
+            "url": "https://tiles.codefor.de/berlin-1953/{z}/{x}/{y}.png",
+            "options": {
+                "attribution": "<a target=\"blank\" href=\"https://fbinter.stadt-berlin.de/fb/berlin/service_intern.jsp?id=k_luftbild1953@senstadt&type=WMS\">Geoportal Berlin / Luftbilder 1953, Maßstab 1:22 000</a>",
+                "minZoom": 10,
+                "maxZoom": 20
+            }
+        },
+        {
             "name": "Luftbilder 1928",
             "url": "https://tiles.codefor.de/berlin-1928/{z}/{x}/{y}.png",
             "options": {
