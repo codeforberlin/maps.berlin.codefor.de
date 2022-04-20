@@ -311,6 +311,15 @@
                 "minZoom": 10,
                 "maxZoom": 20
             }
+        },
+        {
+            "name": "Karte von Berlin 1:5000 (K5 - Farbausgabe)",
+            "url": "https://tiles.codefor.de/berlin-k5/{z}/{x}/{y}.png",
+            "options": {
+                "attribution": "<a target=\"blank\" href=\"https://fbinter.stadt-berlin.de/fb/berlin/service_intern.jsp?id=a_k5_farbe@senstadt&type=FEED\">Geoportal Berlin / Karte von Berlin 1:5000 (K5 - Farbausgabe)</a>",
+                "minZoom": 10,
+                "maxZoom": 20
+            }
         }
     ]
 }
