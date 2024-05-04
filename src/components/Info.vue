@@ -11,7 +11,7 @@
       Die aktuelle Karte zeigt <span v-html="map.options.attribution"></span>. Hinter dem Link gibt es mehr Informationen.
     </p>
     <p>
-      Um die Karte in einem eigenen Projekt zu verwenden können folgende Metadaten genutzt werden:
+      Um diese Karte in einem eigenen Projekt zu verwenden können folgende Metadaten genutzt werden:
     </p>
     <pre>{{ map }}</pre>
     <p>
