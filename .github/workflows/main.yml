@@ -33,6 +33,9 @@ jobs:
     needs: build
     if: github.ref == 'refs/heads/main'
     steps:
+    - name: 🛎️ Checkout repository
+      uses: actions/checkout@v4
+
     - name: 📥 Download artifact
       uses: actions/download-artifact@v4
       with:
