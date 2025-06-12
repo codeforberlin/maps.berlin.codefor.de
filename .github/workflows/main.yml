@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: 🛎️ Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: 🧰 Use Node.js v15
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: '15'
 
@@ -22,7 +22,7 @@ jobs:
       run: npm run build
 
     - name: 📦 Archive build artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: dist
         path: dist
@@ -34,13 +34,13 @@ jobs:
     if: github.ref == 'refs/heads/main'
     steps:
     - name: 📥 Download artifact
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: dist
         path: dist
 
     - name: 🚀 Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@4.1.4
+      uses: JamesIves/github-pages-deploy-action@4
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
