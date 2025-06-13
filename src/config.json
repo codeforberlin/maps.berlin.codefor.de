@@ -12,7 +12,7 @@
   },
   "maps": [
     {
-      "name": "Digitale farbige TrueOrthophotos 2025 (DOP20RGB)",
+      "name": "Digitale farbige Orthophotos 2025 (DOP20RGB)",
       "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2025-dop20rgb/{z}/{x}/{y}.png",
       "options": {
         "attribution": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB)",
