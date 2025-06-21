@@ -282,6 +282,15 @@
       }
     },
     {
+      "name": "Karte von Berlin 1:5000 (K5 - SW-Ausgabe)",
+      "url": "https://tiles.codefor.de/berlin/geoportal/basisdaten/k5sw/{z}/{x}/{y}.png",
+      "options": {
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5 - SW-Ausgabe)</a>",
+        "minZoom": 5,
+        "maxZoom": 20
+      }
+    },
+    {
       "name": "Berlin um 1650",
       "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1650/{z}/{x}/{y}.png",
       "options": {
