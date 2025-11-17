@@ -12,10 +12,10 @@
   },
   "maps": [
     {
-      "name": "Digitale farbige Orthophotos 2025 (DOP20RGB) - Sommerbefliegung",
-      "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2025-dop20rgb-sommer/{z}/{x}/{y}.png",
+      "name": "Digitale farbige TrueOrthophotos 2025 (TrueDOP20RGB)",
+      "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2025-truedop20rgb/{z}/{x}/{y}.png",
       "options": {
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/api/records/73a3de47-ab2a-4be2-ae5d-8d6f8fe5cc1c\" target=\"_blank\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB) - Sommerbefliegung</a>",
+        "attribution": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2025 (TrueDOP20RGB)",
         "minZoom": 5,
         "maxZoom": 20
       }
