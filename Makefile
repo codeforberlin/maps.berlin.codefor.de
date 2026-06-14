@@ -1,2 +1,2 @@
 serve:
-	. "${NVM_DIR}/nvm.sh"; nvm use; npm run serve
+	. "${NVM_DIR}/nvm.sh"; nvm use && npm run serve
