@@ -438,8 +438,8 @@
       "name": "Karte des Deutschen Reiches 1893",
       "url": "https://tiles.codefor.de/rumsey/karte-des-deutschen-reiches-1893/{z}/{x}/{y}.png",
       "options": {
-        "attribution": "<a href=\"https://www.davidrumsey.com/blog/2011/4/10/karte-des-deutschen-reiches-1893\" target=\"_blank\">David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries</a>",
-        "minZoom": 5,
+        "attribution": "<a href=\"https://www.davidrumsey.com/blog/2011/4/10/karte-des-deutschen-reiches-1893\" target=\"_blank\">David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries</a> / <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\">CC BY-NC-SA 3.0</a>",
+        "minZoom": 6,
         "maxZoom": 20
       }
     }
