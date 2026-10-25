@@ -1,2 +1,10 @@
-serve:
-	. "${NVM_DIR}/nvm.sh"; nvm use && npm run serve
+.PHONY: dev build preview
+
+dev:
+	npm run dev
+
+build:
+	npm run build
+
+preview:
+	npm run preview
