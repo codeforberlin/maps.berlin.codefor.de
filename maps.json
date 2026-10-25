@@ -1,6 +1,9 @@
 [
   {
-    "name": "Luftbilder",
+    "name": {
+      "de": "Luftbilder",
+      "en": "Aerial images"
+    },
     "maps": [
       {
         "name": "Digitale farbige TrueOrthophotos 2026 (DOP20RGB)",
@@ -284,7 +287,10 @@
     ]
   },
   {
-    "name": "Basisdaten",
+    "name": {
+      "de": "Basisdaten",
+      "en": "Base maps"
+    },
     "maps": [
       {
         "name": "Karte von Berlin 1:5000 (K5 - Farbausgabe)",
@@ -307,7 +313,10 @@
     ]
   },
   {
-    "name": "Städtebauliche Entwicklung Berlins seit 1650 in Karten",
+    "name": {
+      "de": "Städtebauliche Entwicklung Berlins seit 1650 in Karten",
+      "en": "Urban development of Berlin since 1650 in maps"
+    },
     "maps": [
       {
         "name": "Berlin um 1650",
@@ -420,7 +429,10 @@
     ]
   },
   {
-    "name": "Weitere Karten",
+    "name": {
+      "de": "Weitere Karten",
+      "en": "Other maps"
+    },
     "maps": [
       {
         "name": "Straubes Übersichtsplan von Berlin (Historische Mitte)",
