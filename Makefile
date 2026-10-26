@@ -19,6 +19,7 @@ install:
 	$(NVM) npm ci
 
 local:
+	rm -rf node_modules/@jochenklar/maps
 	$(NVM) npm install --no-save --install-links ../maps
 
 deploy: build
