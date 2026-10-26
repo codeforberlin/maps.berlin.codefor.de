@@ -1,10 +1,26 @@
-.PHONY: dev build preview
+.PHONY: dev build preview install local deploy
+
+SHELL := /bin/bash
+
+NVM = . $(NVM_DIR)/nvm.sh && nvm use --silent &&
+
+-include .env
 
 dev:
-	npm run dev
+	$(NVM) npm run dev
 
 build:
-	npm run build
+	$(NVM) npm run build
 
 preview:
-	npm run preview
+	$(NVM) npm run preview
+
+install:
+	$(NVM) npm ci
+
+local:
+	$(NVM) npm install --no-save --install-links ../maps
+
+deploy: build
+	@[[ "$(DEPLOY)" == ?*:?* ]] || { echo 'DEPLOY must be host:/path'; exit 1; }
+	rsync -av --delete dist/ $(DEPLOY)
