@@ -1,6 +1,8 @@
+import { defaults } from '@jochenklar/maps'
+
 import infoDe from './info.de.html?raw'
 import infoEn from './info.en.html?raw'
-import groups from './maps.json'
+import maps from './maps.json'
 
 
 export default {
@@ -18,5 +20,13 @@ export default {
     center: [52.51, 13.37628],
     zoom: 14,
   },
-  groups,
+  // the other site of the OK Lab Berlin, which opens with the current view
+  external: [
+    ...defaults.external,
+    {
+      name: 'luftbilder.berlin.codefor.de',
+      url: 'https://luftbilder.berlin.codefor.de/',
+    },
+  ],
+  maps,
 }
