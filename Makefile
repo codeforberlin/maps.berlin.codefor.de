@@ -19,7 +19,7 @@ install:
 	$(NVM) npm ci
 
 local:
-	rm -rf node_modules/@jochenklar/maps
+	rm -rf node_modules/@jochenklar/maps node_modules/.vite
 	$(NVM) npm install --no-save --install-links ../maps
 
 deploy: build
