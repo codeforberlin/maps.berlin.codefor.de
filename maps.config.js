@@ -22,13 +22,12 @@ export default {
     minZoom: 9,
     maxZoom: 19,
   },
-  // the other site of the OK Lab Berlin, which opens with the current view
   external: [
-    ...defaults.external,
     {
       name: 'luftbilder.berlin.codefor.de',
       url: 'https://luftbilder.berlin.codefor.de/',
     },
+    ...defaults.external,
   ],
   maps,
 }
