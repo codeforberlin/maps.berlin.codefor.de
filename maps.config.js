@@ -19,6 +19,8 @@ export default {
   view: {
     center: [52.51, 13.37628],
     zoom: 14,
+    minZoom: 9,
+    maxZoom: 19,
   },
   // the other site of the OK Lab Berlin, which opens with the current view
   external: [
