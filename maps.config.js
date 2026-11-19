@@ -27,6 +27,10 @@ export default {
       name: 'luftbilder.berlin.codefor.de',
       url: 'https://luftbilder.berlin.codefor.de/',
     },
+    {
+      name: 'stadtplan.berlin.codefor.de',
+      url: 'https://stadtplan.berlin.codefor.de/',
+    },
     ...defaults.external,
   ],
   maps,
