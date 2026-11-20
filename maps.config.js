@@ -22,6 +22,7 @@ export default {
     minZoom: 9,
     maxZoom: 19,
   },
+  thumbnail: '15/17603/10746',  // Stadtschloss
   external: [
     {
       name: 'luftbilder.berlin.codefor.de',

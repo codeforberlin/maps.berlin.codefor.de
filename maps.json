@@ -51,16 +51,6 @@
         "attribution": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2020 (DOP20RGB)"
       },
       {
-        "name": "Digitale Color-Infrarot-TrueOrthophotos 2020 (TrueDOP20CIR) - Sommerbefliegung",
-        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2020-truedop20cir/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/95a1430d-04e9-434b-ba1e-9cd9f0e673b6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-TrueOrthophotos 2020 (TrueDOP20CIR)</a>"
-      },
-      {
-        "name": "Digitale Color-Infrarot-Orthophotos 2020 (DOP20CIR) - Sommerbefliegung",
-        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2020-dop20cir/{z}/{x}/{y}.png",
-        "attribution": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2020 (DOP20CIR)"
-      },
-      {
         "name": "Digitale farbige Orthophotos 2019 (DOP20RGB)",
         "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2019-dop20rgb/{z}/{x}/{y}.png",
         "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/5b664b77-ca23-41cc-aba6-312245b559dd\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2019 (DOP20RGB)</a>"
@@ -81,19 +71,9 @@
         "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/eed6a16b-f86d-3ebe-8c92-0c7d32a6b465\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2016 (DOP20RGB)</a>"
       },
       {
-        "name": "Digitale Color-Infrarot-Orthophotos 2016 (DOP20CIR)",
-        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2016-dop20cir/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/eed6a16b-f86d-3ebe-8c92-0c7d32a6b465\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2016 (DOP20CIR)</a>"
-      },
-      {
         "name": "Digitale farbige Orthophotos 2015 (DOP20RGB)",
         "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2015-dop20rgb/{z}/{x}/{y}.png",
         "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/f81f42b6-0d14-353c-84dc-fafd55962710\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2015 (DOP20RGB)</a>"
-      },
-      {
-        "name": "Digitale Color-Infrarot-Orthophotos 2015 (DOP20CIR)",
-        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2015-dop20cir/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/f81f42b6-0d14-353c-84dc-fafd55962710\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2015 (DOP20CIR)</a>"
       },
       {
         "name": "Digitale farbige Orthophotos 2014 (DOP20RGB)",
@@ -116,11 +96,6 @@
         "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/6213d0b9-00ff-36e7-89e4-0b72d846c66a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2010 (DOP20RGB)</a>"
       },
       {
-        "name": "Digitale Color-Infrarot-Orthophotos 2010 (DOP20CIR)",
-        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2010-dop20cir/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/6213d0b9-00ff-36e7-89e4-0b72d846c66a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2010 (DOP20CIR)</a>"
-      },
-      {
         "name": "Digitale farbige Orthophotos 2009 (DOP20RGB)",
         "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2009-dop20rgb/{z}/{x}/{y}.png",
         "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/8f70d448-6df2-3181-8944-eb27cf582743\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2009 (DOP20RGB)</a>"
@@ -134,11 +109,6 @@
         "name": "Digitale Schwarz-Weiß-Orthophotos 2006 (DOP15PAN)",
         "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2006-dop15pan/{z}/{x}/{y}.png",
         "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/b97ca27d-61cc-355b-8905-79ed0c4aa9b7\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Schwarz-Weiß-Orthophotos 2006 (DOP15PAN)</a>"
-      },
-      {
-        "name": "Digitale Color-Infrarot-Orthophotos 2005 (DOP20CIR)",
-        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2005-dop15cir/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/22c1bad8-1964-4c92-8bad-753eda14a7ca\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2005 (DOP20CIR)</a>"
       },
       {
         "name": "Digitale farbige Orthophotos 2004 (DOP25RGB)",
@@ -164,19 +134,175 @@
   },
   {
     "name": {
-      "de": "Basisdaten",
-      "en": "Base maps"
+      "de": "Infrarot-Luftbilder",
+      "en": "Infrared aerial images"
     },
     "maps": [
       {
-        "name": "Karte von Berlin 1:5000 (K5 - Farbausgabe)",
-        "url": "https://tiles.codefor.de/berlin/geoportal/basisdaten/k5/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5 - Farbausgabe)</a>"
+        "name": "Digitale Color-Infrarot-TrueOrthophotos 2020 (TrueDOP20CIR) - Sommerbefliegung",
+        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2020-truedop20cir/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/95a1430d-04e9-434b-ba1e-9cd9f0e673b6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-TrueOrthophotos 2020 (TrueDOP20CIR)</a>"
       },
       {
-        "name": "Karte von Berlin 1:5000 (K5 - SW-Ausgabe)",
-        "url": "https://tiles.codefor.de/berlin/geoportal/basisdaten/k5sw/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5 - SW-Ausgabe)</a>"
+        "name": "Digitale Color-Infrarot-Orthophotos 2020 (DOP20CIR) - Sommerbefliegung",
+        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2020-dop20cir/{z}/{x}/{y}.png",
+        "attribution": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2020 (DOP20CIR)"
+      },
+      {
+        "name": "Digitale Color-Infrarot-Orthophotos 2016 (DOP20CIR)",
+        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2016-dop20cir/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/eed6a16b-f86d-3ebe-8c92-0c7d32a6b465\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2016 (DOP20CIR)</a>"
+      },
+      {
+        "name": "Digitale Color-Infrarot-Orthophotos 2015 (DOP20CIR)",
+        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2015-dop20cir/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/f81f42b6-0d14-353c-84dc-fafd55962710\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2015 (DOP20CIR)</a>"
+      },
+      {
+        "name": "Digitale Color-Infrarot-Orthophotos 2010 (DOP20CIR)",
+        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2010-dop20cir/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/6213d0b9-00ff-36e7-89e4-0b72d846c66a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2010 (DOP20CIR)</a>"
+      },
+      {
+        "name": "Digitale Color-Infrarot-Orthophotos 2005 (DOP20CIR)",
+        "url": "https://tiles.codefor.de/berlin/geoportal/luftbilder/2005-dop15cir/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/22c1bad8-1964-4c92-8bad-753eda14a7ca\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2005 (DOP20CIR)</a>"
+      }
+    ]
+  },
+  {
+    "name": {
+      "de": "Karte von Berlin 1:5000 (K5 Farbausgabe)",
+      "en": "Map of Berlin 1:5000 (K5 colour edition)"
+    },
+    "maps": [
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2026",
+        "url": "https://tiles.codefor.de/berlin/k5/2026/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2026</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2025",
+        "url": "https://tiles.codefor.de/berlin/k5/2025/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2025</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2024",
+        "url": "https://tiles.codefor.de/berlin/k5/2024/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2024</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2023",
+        "url": "https://tiles.codefor.de/berlin/k5/2023/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2023</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2022",
+        "url": "https://tiles.codefor.de/berlin/k5/2022/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2022</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2021",
+        "url": "https://tiles.codefor.de/berlin/k5/2021/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2021</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2020",
+        "url": "https://tiles.codefor.de/berlin/k5/2020/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2020</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2019",
+        "url": "https://tiles.codefor.de/berlin/k5/2019/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2019</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2018",
+        "url": "https://tiles.codefor.de/berlin/k5/2018/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2018</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2017",
+        "url": "https://tiles.codefor.de/berlin/k5/2017/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2017</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2016",
+        "url": "https://tiles.codefor.de/berlin/k5/2016/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2016</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2015",
+        "url": "https://tiles.codefor.de/berlin/k5/2015/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2015</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2014",
+        "url": "https://tiles.codefor.de/berlin/k5/2014/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2014</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2013",
+        "url": "https://tiles.codefor.de/berlin/k5/2013/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2013</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2012",
+        "url": "https://tiles.codefor.de/berlin/k5/2012/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2012</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5) 2010",
+        "url": "https://tiles.codefor.de/berlin/k5/2010/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2010</a>"
+      }
+    ]
+  },
+  {
+    "name": {
+      "de": "Karte von Berlin 1:5000 (K5 SW-Ausgabe)",
+      "en": "Map of Berlin 1:5000 (K5 black and white edition)"
+    },
+    "maps": [
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 2008",
+        "url": "https://tiles.codefor.de/berlin/k5/2008/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2008</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 2006",
+        "url": "https://tiles.codefor.de/berlin/k5/2006/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2006</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 2004",
+        "url": "https://tiles.codefor.de/berlin/k5/2004/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2004</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 2001",
+        "url": "https://tiles.codefor.de/berlin/k5/2001/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2001</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 2000",
+        "url": "https://tiles.codefor.de/berlin/k5/2000/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2000</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 1998",
+        "url": "https://tiles.codefor.de/berlin/k5/1998/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1998</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 1996",
+        "url": "https://tiles.codefor.de/berlin/k5/1996/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1996</a>"
+      },
+      {
+        "name": "Karte von Berlin 1:5000 (K5 SW) 1995",
+        "url": "https://tiles.codefor.de/berlin/k5/1995/{z}/{x}/{y}.png",
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1995</a>"
       }
     ]
   },
