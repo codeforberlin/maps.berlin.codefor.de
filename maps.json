@@ -179,82 +179,98 @@
       {
         "name": "Karte von Berlin 1:5000 (K5) 2026",
         "url": "https://tiles.codefor.de/berlin/k5/2026/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2026</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2026</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2025",
         "url": "https://tiles.codefor.de/berlin/k5/2025/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2025</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2025</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2024",
         "url": "https://tiles.codefor.de/berlin/k5/2024/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2024</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2024</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2023",
         "url": "https://tiles.codefor.de/berlin/k5/2023/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2023</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2023</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2022",
         "url": "https://tiles.codefor.de/berlin/k5/2022/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2022</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2022</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2021",
         "url": "https://tiles.codefor.de/berlin/k5/2021/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2021</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2021</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2020",
         "url": "https://tiles.codefor.de/berlin/k5/2020/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2020</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2020</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2019",
         "url": "https://tiles.codefor.de/berlin/k5/2019/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2019</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2019</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2018",
         "url": "https://tiles.codefor.de/berlin/k5/2018/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2018</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2018</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2017",
         "url": "https://tiles.codefor.de/berlin/k5/2017/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2017</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2017</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2016",
         "url": "https://tiles.codefor.de/berlin/k5/2016/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2016</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2016</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2015",
         "url": "https://tiles.codefor.de/berlin/k5/2015/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2015</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2015</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2014",
         "url": "https://tiles.codefor.de/berlin/k5/2014/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2014</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2014</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2013",
         "url": "https://tiles.codefor.de/berlin/k5/2013/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2013</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2013</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2012",
         "url": "https://tiles.codefor.de/berlin/k5/2012/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2012</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2012</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5) 2010",
         "url": "https://tiles.codefor.de/berlin/k5/2010/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2010</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2010</a>",
+        "legend": "https://tiles.codefor.de/legend/k5.png"
       }
     ]
   },
@@ -267,42 +283,50 @@
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 2008",
         "url": "https://tiles.codefor.de/berlin/k5/2008/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2008</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2008</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 2006",
         "url": "https://tiles.codefor.de/berlin/k5/2006/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2006</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2006</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 2004",
         "url": "https://tiles.codefor.de/berlin/k5/2004/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2004</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2004</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 2001",
         "url": "https://tiles.codefor.de/berlin/k5/2001/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2001</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2001</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 2000",
         "url": "https://tiles.codefor.de/berlin/k5/2000/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2000</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2000</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 1998",
         "url": "https://tiles.codefor.de/berlin/k5/1998/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1998</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1998</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 1996",
         "url": "https://tiles.codefor.de/berlin/k5/1996/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1996</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1996</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       },
       {
         "name": "Karte von Berlin 1:5000 (K5 SW) 1995",
         "url": "https://tiles.codefor.de/berlin/k5/1995/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1995</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 1995</a>",
+        "legend": "https://tiles.codefor.de/legend/k5sw.png"
       }
     ]
   },
@@ -315,62 +339,74 @@
       {
         "name": "Berlin um 1650",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1650/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1650</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1650</a>",
+        "legend": "https://tiles.codefor.de/legend/1650.png"
       },
       {
         "name": "Berlin um 1690",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1690/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1690</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1690</a>",
+        "legend": "https://tiles.codefor.de/legend/1690.png"
       },
       {
         "name": "Berlin um 1750",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1750/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1750</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1750</a>",
+        "legend": "https://tiles.codefor.de/legend/1750.png"
       },
       {
         "name": "Berlin um 1800",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1800/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1800</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1800</a>",
+        "legend": "https://tiles.codefor.de/legend/1800.png"
       },
       {
         "name": "Berlin um 1850",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1850/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1850</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1850</a>",
+        "legend": "https://tiles.codefor.de/legend/1850.png"
       },
       {
         "name": "Berlin um 1880",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1880/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1880</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1880</a>",
+        "legend": "https://tiles.codefor.de/legend/1880.png"
       },
       {
         "name": "Berlin um 1910",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1910/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1910</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1910</a>",
+        "legend": "https://tiles.codefor.de/legend/1910.png"
       },
       {
         "name": "Berlin um 1940",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1940/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1940</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1940</a>",
+        "legend": "https://tiles.codefor.de/legend/1940.png"
       },
       {
         "name": "Berlin um 1986",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/1986/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1986</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1986</a>",
+        "legend": "https://tiles.codefor.de/legend/1986.png"
       },
       {
         "name": "Gebäudealter 1992/93",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/gebaeudealter/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Gebäudealter 1992/93</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Gebäudealter 1992/93</a>",
+        "legend": "https://tiles.codefor.de/legend/gebaeudealter.png"
       },
       {
         "name": "Gebäudeschäden 1945",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/gebschaden/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Gebäudeschäden 1945</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Gebäudeschäden 1945</a>",
+        "legend": "https://tiles.codefor.de/legend/gebschaden.jpg"
       },
       {
         "name": "Hobrechtplan 1862",
         "url": "https://tiles.codefor.de/berlin/geoportal/historische-karten/hobrecht/{z}/{x}/{y}.png",
-        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/457ffd8e-b9e1-359d-9d07-85acef6786dd\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Hobrechtplan 1862</a>"
+        "attribution": "<a href=\"https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/457ffd8e-b9e1-359d-9d07-85acef6786dd\" target=\"_blank\" rel=\"noopener\">Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Hobrechtplan 1862</a>",
+        "legend": "https://tiles.codefor.de/legend/hobrecht.jpg"
       }
     ]
   },
